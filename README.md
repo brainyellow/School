@@ -1,2 +1,1 @@
-# School
-Projects, Labs, Misc.
+
